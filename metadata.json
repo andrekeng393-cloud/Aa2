@@ -1,0 +1,6 @@
+{
+  "name": "Site Web Moderne",
+  "description": "Un site web complet, moderne et élégant avec présentation d'activité, services, portfolio et formulaire de contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
